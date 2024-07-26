@@ -1,0 +1,112 @@
+[
+    {
+        "model": "digestapi.book",
+        "pk": 1,
+        "fields": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "isbn_number": "978-0-06-112008-4",
+            "cover_image": "https://example.com/to_kill_a_mockingbird.jpg",
+            "user": 1
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 2,
+        "fields": {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn_number": "978-0-452-28423-4",
+            "cover_image": "https://example.com/1984.jpg",
+            "user": 2
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 3,
+        "fields": {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "isbn_number": "978-0-19-953556-9",
+            "cover_image": "https://example.com/pride_and_prejudice.jpg",
+            "user": 3
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 4,
+        "fields": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn_number": "978-0-7432-7356-5",
+            "cover_image": "https://example.com/the_great_gatsby.jpg",
+            "user": 4
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 5,
+        "fields": {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "isbn_number": "978-0-14-243724-7",
+            "cover_image": "https://example.com/moby_dick.jpg",
+            "user": 5
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 6,
+        "fields": {
+            "title": "War and Peace",
+            "author": "Leo Tolstoy",
+            "isbn_number": "978-0-14-044793-4",
+            "cover_image": "https://example.com/war_and_peace.jpg",
+            "user": 6
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 7,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "isbn_number": "978-0-316-76948-0",
+            "cover_image": "https://example.com/the_catcher_in_the_rye.jpg",
+            "user": 5
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 8,
+        "fields": {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "isbn_number": "978-0-618-00221-3",
+            "cover_image": "https://example.com/the_hobbit.jpg",
+            "user": 3
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 9,
+        "fields": {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "isbn_number": "978-0-06-085052-4",
+            "cover_image": "https://example.com/brave_new_world.jpg",
+            "user": 4
+        }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 10,
+        "fields": {
+            "title": "Jane Eyre",
+            "author": "Charlotte Bronte",
+            "isbn_number": "978-0-14-144114-6",
+            "cover_image": "https://example.com/jane_eyre.jpg",
+            "user": 1
+        }
+    }
+]
